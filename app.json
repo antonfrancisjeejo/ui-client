@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "Feelo UI",
+    "slug": "ui-feelo",
+    "version": "1.0.0",
+    "platforms": ["ios", "android"], 
+    "orientation": "portrait",
+    "icon": "./assets/icon.png"
+  },
+  "name": "Feelo UI"
+}
